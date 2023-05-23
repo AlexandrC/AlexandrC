@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexandrC
-- 👀 I’m interested in Java application and web development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Kotlin/Java application and web development
+- 🌱 I’m currently learning Kotlin
 - 📫 LinkedIn: https://www.linkedin.com/in/alexandr-capovsky-610612111/
 
 <!---
